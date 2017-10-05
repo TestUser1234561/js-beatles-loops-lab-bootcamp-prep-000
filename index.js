@@ -9,5 +9,5 @@ function theBeatlesPlay(m, ins) {
 }
 
 function johnLennonFacts(arr) {
-  
+  while(i < arr.length)
 }
