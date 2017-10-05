@@ -1,3 +1,5 @@
 function theBeatlesPlay(m, i) {
-  for(let player as m)
+  for(let player in m) {
+    
+  }
 }
