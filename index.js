@@ -5,5 +5,5 @@ function theBeatlesPlay(m, ins) {
     newArr.push(`${player} plays ${ins[i]}`)
     i++;
   }
-  retrun newArr
+  return newArr
 }
