@@ -9,5 +9,7 @@ function theBeatlesPlay(m, ins) {
 }
 
 function johnLennonFacts(arr) {
+  let i = 0
+  let newArr = []
   while(i < arr.length)
 }
