@@ -7,3 +7,7 @@ function theBeatlesPlay(m, ins) {
   }
   return newArr
 }
+
+function johnLennonFacts(arr) {
+  
+}
